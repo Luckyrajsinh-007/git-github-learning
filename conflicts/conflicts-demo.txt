@@ -1,2 +1,0 @@
-Hello Git
-Learning merge conflicts in merge-conflicts branch
