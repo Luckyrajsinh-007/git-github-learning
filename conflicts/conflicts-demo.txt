@@ -1,2 +1,2 @@
 Hello Git
-Learning merge conflicts
+Learning merge conflicts in merge-conflicts-demo branch
